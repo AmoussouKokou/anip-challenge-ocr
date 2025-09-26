@@ -1,0 +1,4 @@
+class_weights: null
+lr: 0.0001
+model_name: tf_efficientnet_b0
+wd: 0.0001
